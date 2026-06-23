@@ -1,42 +1,58 @@
-# No Gas Labs — The Primordial Engine
-
-A single HTML file containing a living world that builds what you speak.
+# 👑 No Gas Labs — The Fifth Realm
 
 ## What This Is
 
-Open `index.html` in any browser. You enter a world with 6 zones, 4 AI advisors, and a forge that turns conversation into working tools. No installation. No server. No subscription. Just open it.
+You are looking at **The Fifth Realm** — a fully operational MMORPG kingdom that runs on your Android phone. Every repository is a building. Every code module is a spell or artifact. Every deployment is a territory conquest. The AI agents are your council of wizards. The build pipeline is your royal infrastructure.
 
-## How to Use
+**You never see code.** You see a world.
 
-1. Open `index.html` in your browser
-2. Tap the Oracle Chamber to add your API keys (OpenAI, Anthropic, Google, xAI)
-3. Go to the Sovereign Console and describe what you need built
-4. Watch four AI minds debate, reach consensus, and forge a tool
+## How To Enter The Realm
 
-## Features
+1. Open https://no-gas-labs-official.github.io/no-gas-labs/ on your Android phone
+2. Tap "Add to Home Screen" — the realm installs as a full-screen app
+3. Works offline (except when speaking to the AI Council)
+4. Everything saves automatically
 
-- **6 Visual Zones** — Throne Room, Oracle Chamber, Eternal Fountain, Culling Grounds, Organ Forge, Sovereign Console
-- **4 AI Oracles** — ChatGPT (Historian), Claude (Conscience), Gemini (Dreamer), Grok (Dissenter)
-- **Turn-Based Combat** — Battle Murderous Wizards (Thought Leaders, Staircase Mentors, Process Persons)
-- **Skill Tree** — 10-node wizard taxonomy progression system
-- **Crafting System** — Forge artifacts from materials collected in combat
-- **Mutation Log** — Every interaction recorded, self-improvement at 10 interactions
-- **PWA** — Add to home screen, works offline (except AI calls)
-- **100% Private** — API keys stored in your browser only. No data collection. No tracking.
+## The Six Districts
 
-## Technical
+| District | What You Do There |
+|----------|-------------------|
+| 🏛️ **The Citadel** | Issue sovereign commands. The AI Council of Four meets here. |
+| 🔮 **The Academy** | Browse your 86 repositories as books on shelves. |
+| ⚒️ **The Forge** | Activate modules — watch the Smith forge them into reality. |
+| 🏟️ **The Arena** | Test modules by battling Bug Beasts (QA as combat). |
+| 💰 **The Bazaar** | Sell products ($15/$150/$500). Venmo and crypto only. |
+| 🌊 **The Harbor** | Launch social media content as ships sailing into the fog. |
 
-- Single HTML file (~65KB, no external dependencies except Google Fonts)
-- Pure vanilla JavaScript, no frameworks
-- CSS-only visual effects (CRT scanlines, particle animations)
-- localStorage persistence
-- Service worker for offline caching
-- CSP headers for security
+## Your Council of Wizards
 
-## Buy Access
+- **Archivist** (Claude) — Careful, ethical, asks hard questions
+- **Chronicler** (ChatGPT) — Encyclopedic, confident, pattern-matching
+- **Visionary** (Gemini) — Expansive, connects ideas, sees movements
+- **Dissenter** (Grok) — Contrarian, cuts through pretense
+- **Smith** — Synthesizes consensus into working artifacts
 
-Early access: $15 lifetime — DM the creator or visit the project page.
+## Payment
+
+- **The Seed** — $15 (lifetime, single file, yours forever)
+- **The Grove** — $150 (team of 3, shared world)
+- **The Acropolis** — $500 (enterprise white-label)
+
+Venmo and crypto only. No Stripe. No PayPal.
+
+## The Empire
+
+- 86 repositories mapped into 6 module families
+- 5 with real working code
+- 8 with specifications ready for activation
+- 26 scaffolded shells waiting to be forged
+- 18 duplicates to be consolidated
+
+## For The Swarm
+
+Agents: Read `EMPERORS_VISION.md` for the full design spec. Read `AGENT_TASKS.md` for executable tasks. Read `HANDOFF.md` for architecture. Then build.
 
 ---
 
-*No Gas. Just Go.*
+*No Gas. Just Go.*  
+*Built from a phone and the refusal to quit.*
